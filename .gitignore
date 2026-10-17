@@ -1,0 +1,13 @@
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python environment
+.venv/
+__pycache__/
+*.py[cod]
+
+# Generated vector store (optional)
+faiss_store/
