@@ -13,3 +13,6 @@ langchain_openai
 langgraph
 pageindex
 langchain-google-genai
+beautifulsoup4
+langchain-huggingface
+pandas
